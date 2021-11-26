@@ -1,0 +1,510 @@
+* {
+	box-sizing: border-box;
+	font-family: "Ravi Prakash", sans-serif;
+	margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+
+}
+
+body{
+	overflow-x: hidden;
+}
+
+.portr {
+	font-weight: 400;
+	text-align: center;
+	letter-spacing: 0.1em;
+	font-size: 36px;
+	
+	}
+	
+	h1, h2, h3, h4, h5 {
+		color: white;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+
+
+ul, li {
+	display: block;
+	padding: 0;
+	margin: 0;
+}
+
+.container {
+	width: 1170px;
+	/*позиционирование по центру*/
+	margin: 0 auto; 
+}
+
+.header {
+	
+	padding-top: 67px;
+	color: #fff;
+}
+
+header a {
+	color: white;
+}
+.Sh{
+	
+   display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.content4{
+	display: flex;
+	
+}
+.content4 li a{
+	font-size: 24px;
+	letter-spacing: 0.1em;
+
+
+}
+.content4 li {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sr{
+	color: white;
+	margin-top: 74px;
+	font-size: 24px;
+	width: 450px;
+}
+
+
+.containerQ{
+    justify-content: space-between;
+    display: flex;
+    width: 1170px;
+    margin: 0 auto; 
+
+}
+
+
+
+.containerT h2{
+    font-size: 48px;
+    width: 410px;
+    text-align: center;
+    font-weight: normal;
+}
+.containerT{
+ 	margin-top: 139px;
+    margin-left: 122px;
+}
+.containerK{
+    min-width: 50%;
+    margin-left: 154px;
+    margin-top: 105px;
+}
+
+.about img{
+    max-width: 100%;
+}
+    
+}
+.about{
+	display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.knopka{
+	margin-top: 74px;
+	margin-left: 22px;
+}
+
+h4{
+	text-align: center;
+	font-size: 48px;
+	margin-top: 139px;
+	font-weight: normal;
+}
+.polosochka{
+	text-align: center;
+}
+.all{
+	display: flex;
+}
+.levo{
+	margin-top: 110px;
+	margin-left: 55px;
+}
+.text{
+	color: white;
+	font-size: 24px;
+	font-weight: normal;
+	margin-left: 40px;
+}
+.strela{
+	display: flex;
+}
+.item{
+	margin-top: 80px;
+}
+.pravo{
+	margin-top: 107px;
+	margin-left: 133px;
+}
+h5{
+	text-align: center;
+	font-size: 48px;
+	margin-top: 220px;
+	font-weight: normal;
+}
+.dlinnayapolosochka{
+	text-align: center;
+}
+.allin{
+	display: flex;
+}
+.Elena{
+	margin-top: 56px;
+}
+.param{
+	color: white;
+	font-size: 24px;
+	font-weight: normal;
+	display: flex;
+	margin-top: 18px;
+}
+.razmer{
+	margin-left: 135px;
+}
+.Anna{
+	margin-left: 30px;
+	margin-top: 235px;
+}
+.lom{
+	color: white;
+	font-size: 24px;
+	font-weight: normal;
+	display: flex;
+	margin-top: 18px;
+}
+.razmerr{
+	margin-left: 150px;
+}
+.Bez{
+	margin-top: 56px;
+	margin-left: 30px;
+}
+.mol{
+	color: white;
+	font-size: 24px;
+	font-weight: normal;
+	display: flex;
+	margin-top: 18px;
+}
+.razmerrr{
+	margin-left: 135px;
+}
+.Galina{
+	margin-left: 30px;
+	margin-top: 235px;
+}
+.mlm{
+	color: white;
+	font-size: 24px;
+	font-weight: normal;
+	display: flex;
+	margin-top: 18px;
+}
+.razmerrrr{
+	margin-left: 127px;
+}
+.es{
+	display: flex;
+}
+
+
+
+
+
+
+
+.Veronika{
+	margin-top: 179px;
+}
+.paramm{
+	color: white;
+	font-size: 24px;
+	font-weight: normal;
+	display: flex;
+	margin-top: 18px;
+}
+.razme{
+	margin-left: 90px;
+}
+.Varvara{
+	margin-left: 30px;
+	margin-top: 355px;
+}
+.lomm{
+	color: white;
+	font-size: 24px;
+	font-weight: normal;
+	display: flex;
+	margin-top: 18px;
+}
+.razmee{
+	margin-left: 110px;
+}
+.Kristina{
+	margin-top: 179px;
+	margin-left: 30px;
+}
+.moll{
+	color: white;
+	font-size: 24px;
+	font-weight: normal;
+	display: flex;
+	margin-top: 18px;
+}
+.razm{
+	margin-left: 132px;
+}
+.Tatyana{
+	margin-left: 30px;
+	margin-top: 355px;
+}
+.mlmm{
+	color: white;
+	font-size: 24px;
+	font-weight: normal;
+	display: flex;
+	margin-top: 18px;
+}
+.raz{
+	margin-left: 115px;
+}
+.final{
+	margin-top: 219px;
+}
+h6{
+	color: white;
+	font-size: 48px;
+	margin-top: 348px;
+	font-weight: normal;
+	letter-spacing: 0.04em;
+
+}
+.contakt{
+	margin-left: 69px;
+}
+.tel{
+	margin-top: 47px;
+	display: flex;
+}
+.namber{
+	color: white;
+	font-size: 24px;
+	font-weight: normal;
+	margin-left: 41px;
+	margin-top: 18px;
+}
+.vk{
+	margin-top: 33px;
+	display: flex;
+}
+.silka{
+	color: white;
+	font-size: 24px;
+	font-weight: normal;
+	margin-left: 41px;
+	margin-top: 18px;
+}
+.inst{
+	margin-top: 33px;
+	display: flex;
+}
+.silca{
+	color: white;
+	font-size: 24px;
+	font-weight: normal;
+	margin-left: 41px;
+	margin-top: 18px;
+}
+
+/*Адаптация*/
+
+@media screen and (max-width: 1200px){
+	.container {
+		width: 1140px;
+	}
+}
+@media screen and (max-width: 1199px){
+	.container {
+		width: 960px;
+	}
+	.containerQ {
+		width: 960px;
+	}
+	.containerT{
+		width: 330px;
+		margin-left: 30px;
+	}
+	.knopka{
+		margin-left: 90px;
+	}
+	.containerK{
+		width: 330px;
+	}
+	.containerK img{
+		margin-left: 70px;
+	}
+
+	.content4{
+		width: 970px;
+	}
+	.Sh{
+		width: 800px;
+	}
+	h1{
+		text-align: center;
+	}
+	.containerK{
+		margin-left: 30px;
+	}
+	.pravo{
+		margin-top: 150px;
+	}
+	.Elena img{
+		width: 300px;
+	}
+	.Anna img{
+		width: 300px;
+	}
+	.Bez img{
+		width: 300px;
+	}
+	
+	.Galina img{
+		width: 300px;
+	}
+	.razmer{
+		margin-left: 80px;
+	}
+	.razmerr{
+		margin-left: 100px;
+	}
+	.razmerrr{
+		margin-left: 80px;
+	}
+	.razmerrrr{
+		margin-left: 70px;
+	}
+
+	.Veronika img{
+		width: 220px;
+	}
+	.Varvara img{
+		width: 220px;
+	}
+	.Kristina img{
+		width: 220px;
+	}
+	
+	.Tatyana img{
+		width: 220px;
+	}
+	.razme{
+		margin-left: 40px;
+	}
+	.razmee{
+		margin-left: 50px;
+	}
+	.razm{
+		margin-left: 75px;
+	}
+	.raz{
+		margin-left: 60px;
+	}
+	h6{
+		font-size: 35px;
+	}
+	.finalpoloska img{
+		width: 330px;
+	}
+	.tel img{
+		width: 40px;
+		height: 40px;
+	}
+	.inst img{
+		width: 40px;
+		height: 40px;
+	}
+	.vk img{
+		width: 40px;
+		height: 40px;
+	}
+	
+
+	.final img{
+		width: 400px;
+	}
+}
+@media screen and (max-width: 991px){
+	.container {
+		width: 720px;
+	}
+	.container {
+		width: 720px;
+	}
+	.containerQ {
+		width: 720px;
+	}
+	.containerT{
+		width: 330px;
+		margin-left: 30px;
+	}
+	.knopka{
+		margin-left: 90px;
+	}
+	.containerK{
+		width: 330px;
+	}
+	.containerK img{
+		margin-left: 70px;
+	}
+
+	.content4{
+		width: 720px;
+	}
+	.Sh{
+		width: 800px;
+	}
+	h1{
+		text-align: center;
+	}
+	.containerK{
+		margin-left: 30px;
+	}	
+}
+@media screen and (max-width: 767px){
+	.container {
+		width: 540px;
+	}
+}
+@media screen and (max-width: 991px){
+	.container {
+		width: 720px;
+	}
+}
+@media screen and (max-width: 575px){
+	.container {
+		width: 100%;
+		padding: 0 15px;
+	}
+}
